@@ -12,7 +12,7 @@ const client = new Client({
 });
 
 // ⚙️ CONFIGURATION (Replace these values!)
-const TOKEN = 'MTM3NjYzNDc5MzY1OTMzNDcxNg.GAkMS6.lFF9XIvcoZlIbVklLGNy28e5Q1sLR8oYC-zT60';
+const TOKEN = 'MTM3NjYzNDc5MzY1OTMzNDcxNg.GGZV2j.9kca0ccA_3Z2hhgT7RaqemKlAoSlKANULSHc98';
 const CLIENT_ID = '1376634793659334716';
 const MOD_ROLE_ID = '1376633983332515962'; // Role ID for mod commands
 const UNSPLASH_KEY = 'TPowW7u1gNGv6QVEzDFBjYDEiJ7aIJ8zNAO-xObZzYY'; // From unsplash.com/developers
